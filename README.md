@@ -1,2 +1,6 @@
 # Void-Dodger
-Void Dodger My Own Game Made in Claude Sonnet 5.5
+Void Dodger Mein Eigenes Spiel
+
+# Gemacht Mit Claude Sonnet 5.5!
+
+Kommt Am 30.10.2026!
