@@ -24,3 +24,7 @@ Windows 10
 Windows 11
 
 # ist noch In Bearbeitung!
+
+# Steuerung:
+WASD / Pfeiltasten  oder  linke Maustaste gedrückt halten (Schiff folgt der Maus)
+P = Pause, F11 = Vollbild/Fenster, ESC = zurück / beenden
