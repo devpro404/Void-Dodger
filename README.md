@@ -11,8 +11,11 @@ Mach Dich Bereit
 
 ```text
 py -m pip install --upgrade pip
+```
+```text
 py -m pip install pygame-ce.
 ```
+
 3. Warte Auf 30.10.2026!
 
 Getestet Auf
