@@ -14,3 +14,10 @@ py -m pip install --upgrade pip
 py -m pip install pygame-ce.
 ```
 3. Warte Auf 30.10.2026!
+
+Getestet Auf
+
+Windows 10
+Windows 11
+
+# ist noch In Testung!
