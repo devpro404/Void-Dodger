@@ -23,8 +23,8 @@ py -m pip install pygame-ce.
 
 Getestet Auf
 
-Windows 10
 Windows 11
+Windows 10
 Windows 7
 # ist noch In Bearbeitung!
 
