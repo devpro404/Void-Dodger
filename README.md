@@ -1,7 +1,10 @@
 # Void Dodger
 Void Dodger Mein Eigenes Spiel
+<img width="512" height="512" alt="void_dodger_icon" src="https://github.com/user-attachments/assets/e1978ed5-0728-47a0-82ae-3984c5fffb5d" />
+
 
 # Gemacht Mit Claude Sonnet 5.5!
+
 
 Kommt Am 30.10.2026!
 
