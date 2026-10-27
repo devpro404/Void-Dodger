@@ -25,7 +25,7 @@ Getestet Auf
 
 Windows 10
 Windows 11
-
+Windows 7
 # ist noch In Bearbeitung!
 
 # Steuerung:
