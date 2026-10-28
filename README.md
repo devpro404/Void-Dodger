@@ -21,6 +21,8 @@ py -m pip install pygame-ce.
 
 3. Warte Auf 30.10.2026!
 
+# info die Grafik ist standardweise auf niedrig
+
 Getestet Auf
 
 Windows 11
