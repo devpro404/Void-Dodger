@@ -10,7 +10,7 @@ Kommt Am 30.10.2026!
 
 Mach Dich Bereit
 1. Downloade [Python](https://www.python.org/ftp/python/pymanager/python-manager-26.4.msix)!
-2. Öffne cmd und schreib
+2. Öffne cmd als admin und schreibe
 
 ```text
 py -m pip install --upgrade pip
